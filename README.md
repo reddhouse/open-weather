@@ -1,6 +1,7 @@
 # Open-Weather App
 
-Displays a list of book titles. User can click to get more details.
+Displays temperature, pressure and humidity forecasts for user-specified cities.
+
 * Integrates with OpenWeatherMap.org's API
 * Uses Redux-promise middleware for handling actions
 * Ajax requests made with Axios library
